@@ -1,12 +1,9 @@
 .title, #calculator {
     margin-left: 10px;
+    font-family: 'Be Vietnam Pro', sans-serif;
 }
 html {
     background-color: #2c2f33;
-}
-
-body {
-    font-family: 'Be Vietnam Pro', sans-serif;
 }
 
 .title, .intentCode, label {
@@ -23,7 +20,8 @@ label {
 }
 
 input[type="checkbox"] {
-    margin-left: 2px
+    margin-left: 2px;
+    font-family: 'Be Vietnam Pro', sans-serif;
 }
 
 input[type="checkbox"]:checked {
